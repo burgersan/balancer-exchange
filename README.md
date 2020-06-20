@@ -1,30 +1,8 @@
 # Balancer Exchange
 
-## Development
+This is the source code of Balancer Exchange at the time that I published it to the permaweb.
 
--   Environment Config
+## Links
 
-    -   Copy .env.example -> .env
-    -   Configure backup node urls
-
-    ```
-    # Backup node url
-    REACT_APP_RPC_URL_1="https://mainnet.infura.io/v3/{apiKey}"
-    REACT_APP_RPC_URL_3="https://ropsten.infura.io/v3/{apiKey}"
-    REACT_APP_RPC_URL_42="https://kovan.infura.io/v3/{apiKey}"
-    REACT_APP_RPC_URL_LOCAL="http://localhost:8545"
-    ```
-
-    -   Configure supported network
-
-    ```
-    # Supported Network ID (e.g. mainnet = 1, rinkeby = 4, kovan = 42)
-    REACT_APP_SUPPORTED_NETWORK_ID="42"
-    ```
-
--   Build & run locally
-
-    ```
-    yarn build
-    yarn start
-    ```
+- Arweave: [Xf8o6lVGZZeFBkCarSqlaAQwX79th_nHC94yuSqNqMg](https://arweave.net/Xf8o6lVGZZeFBkCarSqlaAQwX79th_nHC94yuSqNqMg)
+    - You can access this application over permaweb.
